@@ -17,7 +17,7 @@ I'm committed to continuous learning and am currently focusing on <strong>backen
 Whether it's discussing web design trends, solving coding challenges, or exploring new projects, I'm always excited to connect with fellow developers and tech enthusiasts.
 
 <h3>📬 Contact Info:</h3>
-📧 Email: <a href="mailto:kyadashreyas@gmail.com" target="blank">kyadashreyas@gmail.com</a>
+📧 Email: <a href="mailto:kyadashreyas@gmail.com" target="blank">kyadashreyas@gmail.com</a> <br />
 👔 LinkedIn: <a href="https://www.linkedin.com/in/shreyas-kyada-1aa93a235" target="blank">LinkedIn Profile</a>
-
+<br />
 Thanks for visiting my profile! Whether you're here to explore my work or chat about the latest tech trends, I'm thrilled to have you as part of my coding journey. **Let's build the web of tomorrow**, together! 🌐🚀
