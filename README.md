@@ -18,6 +18,5 @@ Whether it's discussing web design trends, solving coding challenges, or explori
 
 <h3>📬 Contact Info:</h3>
 📧 Email: <a href="mailto:kyadashreyas@gmail.com" target="_blank">kyadashreyas@gmail.com</a> <br />
-👔 LinkedIn: <a href="https://www.linkedin.com/in/shreyas-kyada-1aa93a235" target="_blank">LinkedIn Profile</a>
 <br /><br />
 Thanks for visiting my profile! Whether you're here to explore my work or chat about the latest tech trends, I'm thrilled to have you as part of my coding journey. <strong>Let's build the web of tomorrow</strong>, together! 🌐🚀
